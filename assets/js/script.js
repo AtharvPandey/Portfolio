@@ -62,6 +62,7 @@ window.onload = function() {
 };
 // <!-- emailjs to mail contact form data -->
 
+});
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
